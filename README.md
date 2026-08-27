@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="YOUR_LOGO_URL" width="180">
+  <img src="assets/logo6.png" width="180">
 </p>
 
 # Ma Lab
